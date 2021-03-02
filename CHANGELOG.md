@@ -21,7 +21,7 @@ the endpoint has been removed. Use the `/metrics` endpoint to collect system sta
 1. [20886](https://github.com/influxdata/influxdb/pull/20886): Prevent "do not have an execution context" error when parsing Flux options in tasks.
 1. [20872](https://github.com/influxdata/influxdb/pull/20872): Respect 24 hour clock formats in the UI and allow more choices
 1. [20860](https://github.com/influxdata/influxdb/pull/20860): Remove unauthenticated, unsupported `/debug/vars` HTTP endpoint.
-1. [20773](https://github.com/influxdata/influxdb/pull/20773): Fix data race in TSM engine when inspecting tombstone stats.
+1. [20836](https://github.com/influxdata/influxdb/pull/20836): Fix data race in TSM engine when inspecting tombstone stats.
 
 ## v2.0.4 [2021-02-08]
 ----------------------
